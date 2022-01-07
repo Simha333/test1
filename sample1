@@ -4,4 +4,4 @@ one more line is added here
  another commit is adding for git hub 
 now we push this commit to the git hub
 by using the command git push -u origin master
-
+pull and merge this file to branch1
