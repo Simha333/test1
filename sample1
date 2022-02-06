@@ -6,3 +6,5 @@ now we push this commit to the git hub
 by using the command git push -u origin master
 pull and merge this file to branch1
 sample 2 is deleted
+ new commit made here and 
+ now github repo is transfered to the jenkins for CI/CD
