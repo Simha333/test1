@@ -14,6 +14,4 @@ new line is goig to be added after long time that is
 hello ths is my first branch afer long time
 <<<<<<< HEAD
 here is the new line in the local repo
-=======
 now this repo in the local repo
->>>>>>> 0090742c33ad1bb50b92e87b8a622e106fc6bf5a
